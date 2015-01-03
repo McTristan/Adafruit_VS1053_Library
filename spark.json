@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit VS1053 library",
+  "name": "Adafruit_VS1053",
   "author": "Limor Fried/Ladyada for Adafruit Industries, adapted for Spark Core by Paul Kourany",
   "license": "BSD",
   "version": "1.0.0",
