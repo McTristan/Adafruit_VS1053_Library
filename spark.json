@@ -1,0 +1,7 @@
+{
+  "name": "Adafruit VS1053 library",
+  "author": "Limor Fried/Ladyada for Adafruit Industries, adapted for Spark Core by Paul Kourany",
+  "license": "BSD",
+  "version": "1.0.0",
+  "description": "This is a library for the Adafruit VS1053 Codec Breakout"
+}
