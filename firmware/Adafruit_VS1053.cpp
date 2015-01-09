@@ -458,7 +458,7 @@ uint8_t Adafruit_VS1053::begin(void) {
     SPI.begin();
     SPI.setDataMode(SPI_MODE0);
     SPI.setBitOrder(MSBFIRST);
-    SPI.setClockDivider(SPI_CLOCK_DIV128); 
+    SPI.setClockDivider(SPI_CLOCK_DIV256); 
   }
 
   reset();
