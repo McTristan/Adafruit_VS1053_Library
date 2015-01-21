@@ -229,7 +229,7 @@ uint8_t Sd2Card::init(uint8_t sckRateID, uint8_t chipSelectPin) {
 	  SPI.setClockDivider(SPI_CLOCK_DIV4);
   }
   else
-	  SPI.setClockDivider(SPI_CLOCK_DIV256);
+	  SPI.setClockDivider(SPI_CLOCK_DIV32);
 
   return init();
 }
