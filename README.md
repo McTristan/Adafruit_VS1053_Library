@@ -13,6 +13,11 @@ Adafruit VS1053 Codec Breakout
   Written by Limor Fried/Ladyada for Adafruit Industries.  
   BSD license, all text above must be included in any redistribution
 
+Particle Photon
+---------------
+
+  This version of the library includes some SPI fixes which are needed for the Photon in order to read from the SD card
+  
 Spark Core
 ----------
   
@@ -22,5 +27,7 @@ Spark Core
   version of the Teensy3 IntervalTimer library.
   
   The Core version also sets the SPI clock to DIV8 (2.25Mhz)
+  
+  
 
   
