@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit_VS1053",
+  "name": "Adafruit_VS1053_Photon",
   "author": "Limor Fried/Ladyada for Adafruit Industries, adapted for Spark Core by Paul Kourany",
   "license": "BSD",
   "version": "1.0.1",
